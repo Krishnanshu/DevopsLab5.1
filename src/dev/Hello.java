@@ -9,7 +9,9 @@ public class Hello {
 		for(int i=1;i<=2;i++){
 		System.out.println("Hello world from Devops after commiting some changes");
 		}
-		
+		for(int i=1;i<=2;i++){
+		System.out.println("Hello world from Devops after commiting some more changes");
+		}
 		
 	}
 }
